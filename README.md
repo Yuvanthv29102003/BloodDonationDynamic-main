@@ -4,41 +4,48 @@ A comprehensive mobile application built with React Native and Expo to connect b
 
 ## Screenshots
 
-### Main Screen
-![Main Screen](assets/screenshots/Main%20Screen.png)
-
-### Community Page
-![Community Page](assets/screenshots/Community%20Page.png)
-
-### Find Donor Page
-![Find Donor](assets/screenshots/Find%20Donor.png)
-
-### Blood Bank Details
-![Blood Bank Details](assets/screenshots/Blood%20bank%20details.png)
-
-### Available Donors
-![Available Donors](assets/screenshots/Available%20Donars.png)
-
-### Booked Donor
-![Booked Donor](assets/screenshots/Booked%20Donor.png)
-
-### Register as Donor
-![Register as Donor](assets/screenshots/Register%20as%20Donor.png)
-
-### Update Profile
-![Update Profile](assets/screenshots/Update%20your%20Profile.png)
-
-### Support
-![Support](assets/screenshots/SUPPORT-2.png)
-
-### Other Options
-![Other Options](assets/screenshots/Other%20Options.png)
-
-### E-Certificate
-![E-Certificate](assets/screenshots/E%20-%20CERTIFICATE%20.png)
-
-### Achievement
-![Achievement](assets/screenshots/ACHIEVEMENT.png)
+<table>
+<tr>
+<td align="center"><b>Main Screen</b></td>
+<td align="center"><b>Community Page</b></td>
+<td align="center"><b>Find Donor</b></td>
+</tr>
+<tr>
+<td><img src="assets/screenshots/Main%20Screen.png" alt="Main Screen" width="200"/></td>
+<td><img src="assets/screenshots/Community%20Page.png" alt="Community Page" width="200"/></td>
+<td><img src="assets/screenshots/Find%20Donor.png" alt="Find Donor" width="200"/></td>
+</tr>
+<tr>
+<td align="center"><b>Blood Bank Details</b></td>
+<td align="center"><b>Available Donors</b></td>
+<td align="center"><b>Booked Donor</b></td>
+</tr>
+<tr>
+<td><img src="assets/screenshots/Blood%20bank%20details.png" alt="Blood Bank Details" width="200"/></td>
+<td><img src="assets/screenshots/Available%20Donars.png" alt="Available Donors" width="200"/></td>
+<td><img src="assets/screenshots/Booked%20Donor.png" alt="Booked Donor" width="200"/></td>
+</tr>
+<tr>
+<td align="center"><b>Register as Donor</b></td>
+<td align="center"><b>Update Profile</b></td>
+<td align="center"><b>Support</b></td>
+</tr>
+<tr>
+<td><img src="assets/screenshots/Register%20as%20Donor.png" alt="Register as Donor" width="200"/></td>
+<td><img src="assets/screenshots/Update%20your%20Profile.png" alt="Update Profile" width="200"/></td>
+<td><img src="assets/screenshots/SUPPORT-2.png" alt="Support" width="200"/></td>
+</tr>
+<tr>
+<td align="center"><b>Other Options</b></td>
+<td align="center"><b>E-Certificate</b></td>
+<td align="center"><b>Achievement</b></td>
+</tr>
+<tr>
+<td><img src="assets/screenshots/Other%20Options.png" alt="Other Options" width="200"/></td>
+<td><img src="assets/screenshots/E%20-%20CERTIFICATE%20.png" alt="E-Certificate" width="200"/></td>
+<td><img src="assets/screenshots/ACHIEVEMENT.png" alt="Achievement" width="200"/></td>
+</tr>
+</table>
 
 ## Tech Stack
 
